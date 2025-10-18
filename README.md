@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 # Welcome to My profile!
+I am a highly driven individual operating at the unique intersection of Computer Science and Digital Marketing. I combine creative strategy with technical skill to build engaging online presences.
+
 Creative, driven, and passionate about designing content that tells a story and brings brands to life. I'm a Social Media Manager with 3+ years of hands-on experience managing digital presence across platforms for startups like Iotric and Botric AI.<br><br>Skilled in Canva, visual storytelling, content planning, and audience engagement, I've led campaigns that boosted engagement by up to 65%. I specialize in crafting banners, carousels, and short-form videos that align perfectly with brand voice and product goals.<br><br>Currently pursuing my Bachelor of Technology in Computer Science, I bring a unique blend of creativity and tech-savviness, with growing skills in Python and a deep interest in AI-focused content. I'm also a strong believer in lifelong learning, always exploring new tools, platforms, and trends in digital marketing and design.<br><br>Let’s connect and collaborate, whether it’s for growing your brand, creating content that converts, or exploring creative tech together.
 
 
