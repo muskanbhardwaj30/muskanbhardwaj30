@@ -1,9 +1,11 @@
 ## Hi there 👋
 
 # Welcome to My profile!
-I'm a Computer Science student passionate about building practical applications using AI, Machine Learning and Generative AI.
+I'm a Computer Science student passionate about building practical applications with Artificial Intelligence, Machine Learning and Generative AI.
 
-I enjoy working with Python, LLMs, RAG pipelines, AI agents, vector databases, APIs and modern web technologies. I'm currently expanding my skills in backend development while building real-world projects.
+I enjoy turning ideas into working products using Python, LLMs, RAG pipelines, AI agents, vector databases, REST APIs, and modern web technologies.
+
+Currently, I'm focused on strengthening my skills in AI/ML, Generative AI and backend development while building real-world projects and continuously learning new technologies.
 
 
 
